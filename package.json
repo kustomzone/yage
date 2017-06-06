@@ -1,5 +1,5 @@
 {
-  "name": "basic-platformer",
+  "name": "wurdar",
   "version": "0.1.0",
   "description": "A basic platformer game engine with Electron and some other technologies.",
   "main": "build/launcher.js",
@@ -31,6 +31,7 @@
     ]
   },
   "devDependencies": {
+    "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
